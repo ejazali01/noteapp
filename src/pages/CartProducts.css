@@ -1,0 +1,15 @@
+.cart-card{
+    max-width: 80%;
+    background-color: #fff;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+    padding: 15px;
+    box-shadow: 5px 3px 3px, 5px 3px 3px;
+    
+}
+
+.cart-card img{
+    max-width: 100px;
+}
